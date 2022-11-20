@@ -11,20 +11,18 @@
 </div>
 
 <p align="center">
-If you find yourself clicking too many steps into password managers just to grab a random passwords, this workflow will save you so much time!
+If you find yourself clicking too many steps into password managers just to grab a random usernames, this workflow will save you so much time!
 </p>
 
 # Usage
 
 Download the alfred workflow and click import.
 
-> _pass {query}_
-
 For example:
 
-> _pass 20_ <br>
+> _uid_<br>
 
-Will create 20 unique characters long passwords. This script was previously written in python2, but MacOS update messed up all the `path`. Now, we are back in php land. Enjoy!
+Will create a unique username with the combination of `adjective` + `noun` + `verb`. This script was previously written in python2, but MacOS update messed up all the `path`. Now, we are back in php land. Enjoy!
 
 # License
 
