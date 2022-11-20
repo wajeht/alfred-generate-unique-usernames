@@ -1,12 +1,12 @@
 <p align="center">
-<img width="70%" src="https://raw.githubusercontent.com/wajeht/alfred-generate-unique-passwords/main/dist/screenshot.png" />
+<img width="70%" src="https://raw.githubusercontent.com/wajeht/alfred-generate-unique-usernames/main/dist/screenshot.png" />
 </p>
 
 # <p align="center"> Generate Unique Username </p>
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/ISC) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wajeht/alfred-generate-unique-passwords)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/ISC) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/wajeht/alfred-generate-unique-usernames)
 
 </div>
 
