@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-If you find yourself clicking too many steps into password managers just to grab a random usernames, this workflow will save you so much time!
+If you find yourself clicking too many steps into password managers just to grab a random username, this workflow will save you so much time!
 </p>
 
 # Usage
