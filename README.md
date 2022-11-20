@@ -1,5 +1,5 @@
 <p align="center">
-<img width="70%" src="https://raw.githubusercontent.com/wajeht/alfred-generate-unique-usernames/main/dist/screenshot.png" />
+<img width="70%" src="https://raw.githubusercontent.com/wajeht/alfred-generate-unique-usernames/main/dist/image.png" />
 </p>
 
 # <p align="center"> Generate Unique Username </p>
